@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的预约",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-tabs": "/uni_modules/uview-ui/components/u-tabs/u-tabs",
+    "filter-dropdown": "/components/filterDropdown/filterDropdown",
+    "graphic-list": "/pages_ani/components/busi/graphicList",
+    "lx-loading": "/components/busi/lxLoading"
+  }
+}

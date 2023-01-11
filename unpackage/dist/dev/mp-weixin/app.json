@@ -1,0 +1,97 @@
+{
+  "pages": [
+    "pages/login/passLogin",
+    "pages/login/register",
+    "pages/home/home",
+    "pages/apply/apply",
+    "pages/mine/mine",
+    "pages/searchList/searchList",
+    "pages/login/login",
+    "pages/courseDetail/confirmApply/confirmApply",
+    "pages/courseDetail/orderConfirm/orderConfirm",
+    "pages/courseDetail/courseDetail",
+    "pages/login/codeLogin",
+    "pages/subject/subject",
+    "pages/education/education",
+    "pages/jump/jump",
+    "pages/mine/myApply/myApply"
+  ],
+  "subPackages": [
+    {
+      "root": "pages_ani",
+      "pages": [
+        "mine/aboutUs/aboutUs",
+        "mine/accountManage/accountManage",
+        "mine/applyRefund/applyRefund",
+        "mine/collectionCourse/collectionCourse",
+        "mine/collectionInstitution/collectionInstitution",
+        "mine/cooperationIn/cooperationIn",
+        "mine/cooperationIn/institution/institution",
+        "mine/negotiationHistory/negotiationHistory",
+        "mine/orderDetail/orderDetail",
+        "mine/orderList/orderList",
+        "mine/partnerRegister/partnerRegister",
+        "mine/partnerRegister/partnerIdCardUpload/partnerIdCardUpload",
+        "mine/personInfo/personInfo",
+        "mine/recruitStudentDetail/recruitStudentDetail",
+        "mine/refundDetail/refundDetail",
+        "mine/refundList/refundList",
+        "mine/setting/setting",
+        "mine/subscribe/subscribe",
+        "mine/switchId/switchId",
+        "mine/tracks/tracks",
+        "findCourse/findCourse",
+        "password/findPass",
+        "password/changePassWord",
+        "search/search",
+        "search/allSearch",
+        "search/searchResult",
+        "agreement/agreement",
+        "institution/allCource/allCource",
+        "institution/brandPhoto/brandPhoto",
+        "institution/institutionDetail/institutionDetail",
+        "institution/brandQualification/brandQualification",
+        "institution/brandQualification/qualificationsDetail"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "猎学网",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#BC292D",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "iconPath": "static/images/tabbar/home.png",
+        "selectedIconPath": "static/images/tabbar/home-selected.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/apply/apply",
+        "iconPath": "static/images/tabbar/education.png",
+        "selectedIconPath": "static/images/tabbar/education-selected.png",
+        "text": "报名",
+        "visible": true
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "iconPath": "static/images/tabbar/mine.png",
+        "selectedIconPath": "static/images/tabbar/mine-selected.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "定位功能"
+    }
+  },
+  "usingComponents": {}
+}

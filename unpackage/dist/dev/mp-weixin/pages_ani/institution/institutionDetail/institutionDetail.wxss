@@ -1,0 +1,170 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+page.data-v-d367d9c0 {
+  color: #333;
+  font-size: 24rpx;
+}
+.global-wrap.data-v-d367d9c0 {
+  background-color: #F6F6F6;
+  min-height: 100vh;
+}
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.video-photo-wrap.data-v-d367d9c0 {
+  position: relative;
+}
+.video-photo-wrap .view-photo.data-v-d367d9c0 {
+  position: absolute;
+  color: #fff;
+  right: 20rpx;
+  bottom: 20rpx;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 16rpx;
+  padding: 10rpx;
+}
+.main.data-v-d367d9c0 {
+  width: 92%;
+  margin: 0 auto;
+  margin-top: 20rpx;
+}
+.line-brach.data-v-d367d9c0 {
+  width: 100vw;
+  height: 20rpx;
+  background-color: #f2f2f2;
+}
+.banner.data-v-d367d9c0 {
+  width: 100%;
+  height: 440rpx;
+}
+video.data-v-d367d9c0 {
+  width: 100%;
+}
+.gold.data-v-d367d9c0 {
+  color: #ab7647;
+}
+.gold-red.data-v-d367d9c0 {
+  color: #bc292d;
+}
+.table-box.data-v-d367d9c0 {
+  padding: 20rpx 24rpx;
+  background-color: #f2f2f2;
+  border-radius: 8rpx;
+  font-size: 28rpx;
+  margin-top: 10rpx;
+  margin-bottom: 20rpx;
+}
+.popup-select.data-v-d367d9c0 {
+  padding: 0 40rpx;
+}
+.popup-select .popup-service.data-v-d367d9c0 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 8rpx;
+  height: 72rpx;
+  background-color: #f2f2f2;
+  padding: 0 20rpx;
+}
+.tabs-box.popup.data-v-d367d9c0 {
+  padding: 40rpx;
+}
+.tabs-box.popup .tab.data-v-d367d9c0 {
+  margin-bottom: 30rpx;
+}
+.subject-wrap.data-v-d367d9c0 {
+  max-height: 270rpx;
+  overflow: auto;
+}
+.line-red.data-v-d367d9c0 {
+  margin-top: 16rpx;
+  border-top: 2rpx solid #bc292d;
+  padding-top: 16rpx;
+}
+.arrow-after.data-v-d367d9c0 {
+  position: absolute;
+  display: inline-block;
+  width: 16rpx;
+  height: 16rpx;
+  right: 16rpx;
+  top: 20rpx;
+  border-right: 6rpx solid #999;
+  border-top: 6rpx solid #999;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+.institution.data-v-d367d9c0 {
+  padding: 20rpx;
+  background-color: #fff;
+  margin-top: 10rpx;
+}
+.tab.data-v-d367d9c0 {
+  margin-bottom: 12rpx;
+  margin-right: 12rpx;
+  display: inline-block;
+  background-color: #f2f2f2;
+  color: #333;
+  border-radius: 30rpx;
+  padding: 8rpx 24rpx;
+  font-size: 28rpx;
+}
+.tab.active.data-v-d367d9c0 {
+  color: #CB242B;
+  border: 1rpx solid #CB242B;
+  background-color: #fff;
+}
+.wf-flow.data-v-d367d9c0 {
+  background-color: #fff;
+  padding: 20rpx;
+}
+.brand.data-v-d367d9c0 {
+  background-color: #fff;
+  padding: 20rpx;
+}
+.footer.data-v-d367d9c0 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 110rpx;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer view.data-v-d367d9c0 {
+  margin-right: 30rpx;
+}
+.no-id.data-v-d367d9c0 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+.empty-img.data-v-d367d9c0 {
+  width: 300rpx;
+  height: 340rpx;
+}
+

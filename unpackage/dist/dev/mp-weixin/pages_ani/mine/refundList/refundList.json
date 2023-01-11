@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "退款售后",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "graphic-list": "/pages_ani/components/busi/graphicList",
+    "lx-loading": "/components/busi/lxLoading",
+    "lx-tabs": "/components/busi/lxTabs"
+  }
+}

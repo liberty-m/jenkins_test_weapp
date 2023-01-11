@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "专题",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "lx-tabs": "/components/busi/lxTabs",
+    "lx-loading": "/components/busi/lxLoading"
+  }
+}

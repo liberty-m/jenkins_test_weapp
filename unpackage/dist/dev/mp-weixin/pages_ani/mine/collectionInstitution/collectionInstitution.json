@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "关注机构",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "filter-dropdown": "/components/filterDropdown/filterDropdown",
+    "graphic-list": "/pages_ani/components/busi/graphicList",
+    "lx-loading": "/components/busi/lxLoading"
+  }
+}

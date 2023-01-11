@@ -1,0 +1,1 @@
+<view class="content data-v-cf1b06a2"><block wx:for="{{canvasArr}}" wx:for-item="item" wx:for-index="__i0__"><view class="data-v-cf1b06a2"><canvas style="{{'width:'+(canvasWidth+'px')+';'+('height:'+(canvasHeight+'px')+';')}}" canvas-id="myCanvas" class="data-v-cf1b06a2"></canvas></view></block></view>

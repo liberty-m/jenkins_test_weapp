@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "退款详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-tag": "/uni_modules/uview-ui/components/u-tag/u-tag",
+    "u-modal": "/uni_modules/uview-ui/components/u-modal/u-modal",
+    "u--textarea": "/uni_modules/uview-ui/components/u--textarea/u--textarea",
+    "graphic-list": "/pages_ani/components/busi/graphicList"
+  }
+}

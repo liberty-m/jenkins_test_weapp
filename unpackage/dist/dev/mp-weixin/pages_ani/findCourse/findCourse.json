@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "报名",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u--textarea": "/uni_modules/uview-ui/components/u--textarea/u--textarea",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup",
+    "u-picker": "/uni_modules/uview-ui/components/u-picker/u-picker",
+    "tui-cascade-selection": "/pages_ani/components/thorui/tui-cascade-selection/tui-cascade-selection"
+  }
+}
