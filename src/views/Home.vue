@@ -1,11 +1,18 @@
 <template>
-    <div>
-        <el-button>按钮</el-button>
-        <el-button>这是用jenkins部署的</el-button>
-    </div>
+  <div class="home">
+    <img alt="Vue logo" src="../assets/logo.png">
+    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  </div>
 </template>
 
+<script>
+// @ is an alias to /src
+import HelloWorld from '@/components/HelloWorld.vue'
 
-<style lang="scss">
-
-</style>
+export default {
+  name: 'Home',
+  components: {
+    HelloWorld
+  }
+}
+</script>
