@@ -1,8 +1,0 @@
-{
-  "navigationBarTitleText": "收藏课程",
-  "enablePullDownRefresh": false,
-  "usingComponents": {
-    "lx-loading": "/components/busi/lxLoading",
-    "graphic-list": "/pages_ani/components/busi/graphicList"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "搜索",
-  "enablePullDownRefresh": false,
-  "usingComponents": {
-    "hs-search": "/components/search/allSearch"
-  }
-}

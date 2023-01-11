@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "学历频道",
-  "enablePullDownRefresh": false,
-  "usingComponents": {
-    "hs-search": "/pages_ani/components/search/search"
-  }
-}

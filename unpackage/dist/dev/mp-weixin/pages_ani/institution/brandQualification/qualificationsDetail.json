@@ -1,8 +1,0 @@
-{
-  "navigationBarTitleText": "经营资质",
-  "enablePullDownRefresh": false,
-  "usingComponents": {
-    "u-image": "/uni_modules/uview-ui/components/u-image/u-image",
-    "tn-water-mater": "/components/tn-waterMark/index"
-  }
-}

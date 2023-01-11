@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "查询列表",
-  "enablePullDownRefresh": false,
-  "usingComponents": {
-    "course-list": "/components/busi/courseList"
-  }
-}

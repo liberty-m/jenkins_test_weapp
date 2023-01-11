@@ -1,1 +1,0 @@
-<view class="pb-20 pt-20 text-center"><block wx:if="{{isLoading}}"><view><u-loading-icon vue-id="2a1d717e-1" size="20" textSize="14" show="{{isLoading}}" text="努力加载中" bind:__l="__l"></u-loading-icon></view></block><block wx:else><view class="color-999 fz-28">没有更多了</view></block></view>
